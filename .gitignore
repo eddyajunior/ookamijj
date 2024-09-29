@@ -4,6 +4,7 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 .vs/
+vs/
 # Other files and folders
 .settings/
 
@@ -16,6 +17,7 @@ bin-release/
 *.bin 
 *.suo 
 *.v2 
+*.vs
 
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
